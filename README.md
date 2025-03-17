@@ -16,7 +16,7 @@
 
 ## 🔧 Technical Skills & Tooling
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-%2314354C.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg)
+- **Languages**: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 - **AI & NLP**: LLMs/SLMs, symbolic reasoning, sentiment analysis, code-switching, model fine-tuning, [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#), PyTorch, TensorFlow
 - **Knowledge Representation**: Ontology engineering (Wikidata, Neo4j), triplestore databases, higher-order logic (HOL), semantic parsing
 - **Systems & Infrastructure**: Linux, Singularity, [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#), HPC workflows (Slurm), [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) (Lambda, EC2, S3), CI/CD (GitHub Actions, GitLab CI)
