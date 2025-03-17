@@ -1,34 +1,53 @@
 # Nolan Welch
 
-👋 Hi, I’m Nolan, an Honors Carolina student at UNC-Chapel Hill, pursuing a dual major in Computer Science and Hispanic Linguistics. My academic journey blends computational linguistics, neuroscience, and software development, with a focus on using technology to deepen understanding in language and cognitive science.
+👋 Hi, I’m Nolan — a dual Computer Science and Hispanic Linguistics major at UNC-Chapel Hill. My work lives at the intersection of language and logic: I'm passionate about building AI systems that don’t just generate fluent text, but reason with meaning. My current projects explore how structured knowledge representations and sociolinguistic insight can enhance large language models and make them more interpretable, semantically grounded, and truly intelligent.
 
-## 🎓 Academic Background & Research Interests
+---
 
-- **University**: The University of North Carolina at Chapel Hill
-- **Program**: Honors Carolina, Dual Major in Computer Science and Hispanic Linguistics
-- **Research Interests**: 
-  - **Sentiment Analysis for Code-Switched Texts**: Developing sentiment analysis models that handle bilingual text (Spanish-English) and code-switching, exploring how these shifts reflect sentiment and pragmatic use.
-  - **Ambiguity Resolution in NLP**: Fine-tuning large language models to tackle linguistic ambiguities such as referential, syntactic, and semantic forms.
+## 🎓 Academic Background & Research Focus
 
-## 🔧 Current Role
+- **Institution**: University of North Carolina at Chapel Hill  
+- **Program**: Honors Carolina | B.S. in Computer Science & Hispanic Linguistics  
+- **Current Research**:
+  - **Emotion-Driven Code-Switching in Sentiment Analysis** (Honors Thesis): Investigating how sociolinguistic and pragmatic factors affect code-switching behavior and how this information can improve sentiment detection in bilingual NLP systems.
+  - **Structured Reasoning for LLMs**: Developing hybrid systems that integrate knowledge graphs (Wikidata, Neo4j) and symbolic inference layers with probabilistic language models — aiming to bridge surface form and deep structure in AI understanding.
 
-**Lab Technician**  
-**[Neural Dynamics of Control Laboratory](https://bit.ly/4eZe8DS)**, Florida International University  
-Under the supervision of Dr. George Buzzell  
+---
 
-- Ensuring data integrity and reproducibility for neuroscience research
-- Developing structured data validation pipelines to maintain consistent data standards
-- Collaborating with the team to improve processes and data management protocols  
-- [NDCLab GitHub](https://bit.ly/3NH3PIS)
+## 🔧 Technical Skills & Tooling
 
-## 💻 Technical Skills
+- **Languages**: ![Python](https://img.shields.io/badge/Python-%2314354C.svg) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg)
+- **AI & NLP**: LLMs/SLMs, symbolic reasoning, sentiment analysis, code-switching, model fine-tuning, [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#), PyTorch, TensorFlow
+- **Knowledge Representation**: Ontology engineering (Wikidata, Neo4j), triplestore databases, higher-order logic (HOL), semantic parsing
+- **Systems & Infrastructure**: Linux, Singularity, [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#), HPC workflows (Slurm), [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) (Lambda, EC2, S3), CI/CD (GitHub Actions, GitLab CI)
+- **Frameworks & Tools**: [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#), [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#), [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#), Material UI, Redis, [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#), [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#), WebSockets
+- **Data Engineering**: [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#), [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#), robust pipeline development, reproducibility, and QA automation for large-scale datasets
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=flat&logo=mathworks&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
-- **Frameworks and Libraries**: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) ![Jekyll](https://img.shields.io/badge/Jekyll-%23CC0000.svg?style=flat&logo=jekyll&logoColor=white)
-- **Data Management & Processing**: ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white), experienced with data parsing, transformation, and validation techniques, building robust data pipelines, and ensuring consistency across data sources. Familiar with high-performance computing (HPC) for large datasets and model training.
-- **Operating Systems & System Concepts**: Experienced in Linux-based systems, including system calls, process management, and scripting for automation.
-- **Frontend/UI Design**: ![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+---
 
-## 📫 Get in Touch
+## 🔬 Current Role
 
-Feel free to reach out via [nolanwelch@outlook.com](mailto:nolanwelch@outlook.com) or connect on [LinkedIn](https://bit.ly/3C8rorc). I'm always open to collaboration or simply connecting!
+**Research Programmer**  
+**[Neural Dynamics of Control Laboratory (FIU)](https://www.ndclab.com/)** | Remote
+
+Under the supervision of Dr. George Buzzell
+
+- Designed and deployed a scalable data validation system for neuroscience research ([hallMonitor 2.0](https://github.com/NDCLab/lab-devOps/tree/data-monitoring-v2.0/scripts/monitor/hallMonitor2))
+- Ensured reproducibility and integrity in HPC workflows (>13TB EEG datasets)
+- Built quality assurance layers to enforce data integrity and adherence to lab schema standards
+
+💡 [Check out our lab code on GitHub!](https://github.com/NDCLab/)
+
+---
+
+## 💡 What I’m Excited About
+
+I’m passionate about rethinking how AI systems interact with knowledge — decoupling language from logic, then deliberately reconnecting them through structured symbolic reasoning and semantically-aware architectures. Whether through code, ontology, or linguistic analysis, I love designing systems that make machine reasoning more transparent and aligned with human meaning.
+
+---
+
+## 📫 Let’s Connect
+
+I'm always open to collaboration, research ideas, or just thoughtful conversations about language and intelligence.
+
+📬 [nolanwelch@outlook.com](mailto:nolanwelch@outlook.com) | 💼 [LinkedIn](https://www.linkedin.com/in/nolan-welch/)
